@@ -63,8 +63,6 @@ According to the data set, people whose names start with "U", "Y", "Q", "W" or "
 
 HYPOTHESIS 3: SHARKS ARE NOT REALLY INTO CINEMA
 
-![Jaws](./Images/Jaws.avif)
-
 After days of intense research I have not come to a conclusion: Any data about sharks show if they like Pop Corn, and it is basically why we humans go to see the movies. 
 Speaking about the films themselves, since the film Jaws by Steven Spielberg was released back in 1975, the cinematic universe surrounding sharks has been outstanding. Good (not so many) and bad (way too many) films about sharks has been in our lifes from that day. For this hypothesis, I wanted to know if we can see a pattern between the top 10 most popular Shark movies since Jaws and the number of attacks in those years. Are they related?
 
